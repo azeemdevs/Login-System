@@ -11,6 +11,8 @@ Setup:
 
 - Make sure you are using the PHP VERSION 8.2. because it uses some default built in functions of version 8.2.
 
+- For default styling purpose i use the mvp.css cdnjs link.
+
 ## Created By
 
 Azeem Zahid
